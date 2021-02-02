@@ -1,6 +1,7 @@
-print("funciona git ") 
-#hhh
-##llsld
+import cv2 as cv
 
-kll
-ghjk
+print(cv.__version__)
+print("funciona git ") 
+
+
+
